@@ -1,0 +1,2 @@
+This is a project called “intern-portfolio”.
+My task is to set up your own version of this project locally, connect it to GitHub, make changes in a separate feature branch, and get those changes merged into the main branch through a Pull Request. 
