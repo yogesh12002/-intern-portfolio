@@ -1,2 +1,7 @@
 This is a project called “intern-portfolio”.
 My task is to set up your own version of this project locally, connect it to GitHub, make changes in a separate feature branch, and get those changes merged into the main branch through a Pull Request. 
+First i had created the folder with intern portfolio then created the index.html file , about.txt file and readme.md file
+then I had add the file in the stageing area and then use the commit command and then push it to the github.
+before this above command i had insilisation of git and added the remote to the repo and then i had usre the git log to check the commit history 
+
+ 
