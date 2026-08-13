@@ -12,13 +12,14 @@ Created the `intern-portfolio` folder and initialized it as a Git repository.
 Commands used:
 
 mkdir intern-portfolio
+
 cd intern-portfolio
+
 git init
+
 git config --global user.name "Yogesh Gupta"
+
 git config --global user.email "yogeshgupta12002@gmail.com"
-git status
-
-
 
 
 ### Task 2 - Staging and Committing
